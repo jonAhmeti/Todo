@@ -1,0 +1,16 @@
+﻿.table-item {
+    border-radius: 20px;
+}
+
+
+    .table-item:hover {
+        box-shadow: rgba(0,0,0,0.3) 0 0 7px 1px;
+    }
+
+    .table-item:nth-of-type(2n) {
+        background-color: rgba(255,128,0,0.3);
+    }
+
+.crud{
+    cursor: pointer;
+}
